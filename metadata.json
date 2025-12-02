@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GestureSnake",
+  "description": "A hands-free Snake game controlled by webcam gestures using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
